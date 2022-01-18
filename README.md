@@ -4,3 +4,9 @@ Ppartirtur is a virtual music score library for Processing which provides a fast
 # A Few Quick Notes
 Before you get started, it is important to understand that the Ppartitur only work together with MidiBus library and it need to receive TIMING_CLOCK  set to 60 Bpm. If you want to sync across several computer you need to send  TIMING_CLOCK via Midi NetWork. You can achieve this by using Ableton live. 
 Do not forget to rename the folder from Ppartitur-master to Ppartitur, otherwise porcessing will not reconize the library.
+
+
+
+
+https://user-images.githubusercontent.com/45119056/150022349-95918b75-f9c7-421a-b18b-9d87efeba203.mov
+
